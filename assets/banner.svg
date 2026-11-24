@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="284" viewBox="0 0 960 284" role="img" aria-labelledby="t d">
+<title id="t">Gabriel Henrique — Desenvolvimento de software</title><desc id="d">Estudante de ADS na FACENS. Desenvolvimento full stack, automação e qualidade de software.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1426"/><stop offset="1" stop-color="#102c40"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#45667d" opacity=".16"/></pattern></defs>
+<rect x="1" y="1" width="958" height="282" rx="22" fill="url(#bg)" stroke="#23465b"/>
+<rect x="1" y="1" width="958" height="282" rx="22" fill="url(#grid)"/>
+<path d="M0 25H264" stroke="#22d3ee" stroke-width="3"/>
+<g font-family="Verdana, Arial, sans-serif">
+<text x="42" y="65" fill="#67e8f9" font-size="13" font-weight="700" letter-spacing="3">PORTFÓLIO / DESENVOLVIMENTO</text>
+<text x="40" y="133" fill="#f8fafc" font-size="52" font-weight="700" letter-spacing="-2">Gabriel Henrique</text>
+<text x="43" y="170" fill="#b7cce0" font-size="20">Estudante de ADS · FACENS</text>
+<path d="M43 193H650" stroke="#426175" stroke-opacity=".65"/>
+<text x="43" y="224" fill="#c8d9e8" font-size="16">Full stack  /  Automação  /  Qualidade de software</text>
+<text x="43" y="253" fill="#7dd3fc" font-size="12" letter-spacing="1.1">IDEIAS, CÓDIGO E SOLUÇÕES PARA PROBLEMAS REAIS.</text>
+</g>
+<g transform="translate(754 64)"><path d="M72 0 144 42V126L72 168 0 126V42Z" fill="#0a1b2c" stroke="#22d3ee" stroke-width="1.5"/><path d="M72 12 133 48V120L72 156 11 120V48Z" stroke="#315b70" fill="none"/><path d="m47 63-23 21 23 21m50-42 23 21-23 21m-13-55-23 70" stroke="#67e8f9" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" fill="none"/><circle cx="72" cy="0" r="4" fill="#67e8f9"/><circle cx="144" cy="126" r="4" fill="#67e8f9"/></g></svg>
